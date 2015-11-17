@@ -11,4 +11,6 @@
 void main(void){
 	printf("hello testcpp");
 	printf("test ok");
+	printf("branch test");
+
 }
