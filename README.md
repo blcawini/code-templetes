@@ -1,2 +1,1 @@
-# code-templetes
-test_c
+# c++ code test
